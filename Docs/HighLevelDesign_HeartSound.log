@@ -1,0 +1,118 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.30)  12 SEP 2017 01:03
+entering extended mode
+**./HighLevelDesign_HeartSound.tex
+(HighLevelDesign_HeartSound.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(HighLevelDesign_HeartSound.aux)
+\openout1 = `HighLevelDesign_HeartSound.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (HighLevelDesign_HeartSou
+nd.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `HighLevelDesign_HeartSound.toc'.
+
+ [1] [2]
+Overfull \hbox (44.71661pt too wide) detected at line 42
+\OML/cmm/m/it/12 Sensitivity; Se \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 wa\OT1/cmr/
+m/n/12 1(\OML/cmm/m/it/12 Aa\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 
+(\OML/cmm/m/it/12 Aa\OT1/cmr/m/n/12 1 + \OML/cmm/m/it/12 Aq\OT1/cmr/m/n/12 1 + 
+\OML/cmm/m/it/12 An\OT1/cmr/m/n/12 1)) + \OML/cmm/m/it/12 wa\OT1/cmr/m/n/12 2((
+\OML/cmm/m/it/12 Aa\OT1/cmr/m/n/12 2 + \OML/cmm/m/it/12 Aq\OT1/cmr/m/n/12 2)\OM
+L/cmm/m/it/12 =\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 Aa\OT1/cmr/m/n/12 2 + \OML/cmm
+/m/it/12 Aq\OT1/cmr/m/n/12 2 + \OML/cmm/m/it/12 An\OT1/cmr/m/n/12 2))
+ []
+
+
+Overfull \hbox (61.41194pt too wide) detected at line 46
+\OML/cmm/m/it/12 Specificty; Sp \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 wn\OT1/cmr/m
+/n/12 1(\OML/cmm/m/it/12 Nn\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 =\OT1/cmr/m/n/12 (
+\OML/cmm/m/it/12 Na\OT1/cmr/m/n/12 1 + \OML/cmm/m/it/12 Nq\OT1/cmr/m/n/12 1 + \
+OML/cmm/m/it/12 Nn\OT1/cmr/m/n/12 1)) + \OML/cmm/m/it/12 wn\OT1/cmr/m/n/12 2((\
+OML/cmm/m/it/12 Nn\OT1/cmr/m/n/12 2 + \OML/cmm/m/it/12 Nq\OT1/cmr/m/n/12 2)\OML
+/cmm/m/it/12 =\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 Na\OT1/cmr/m/n/12 2 + \OML/cmm/
+m/it/12 Nq\OT1/cmr/m/n/12 2 + \OML/cmm/m/it/12 Nn\OT1/cmr/m/n/12 2))
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--71
+
+ []
+
+[3] [4] (HighLevelDesign_HeartSound.aux) ) 
+Here is how much of TeX's memory you used:
+ 238 strings out of 493323
+ 2740 string characters out of 3139069
+ 56648 words of memory out of 3000000
+ 3850 multiletter control sequences out of 15000+200000
+ 8808 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,6n,19p,537b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r17.pfb>
+Output written on HighLevelDesign_HeartSound.pdf (5 pages, 66043 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
