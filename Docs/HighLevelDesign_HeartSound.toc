@@ -1,8 +1,0 @@
-\contentsline {section}{\numberline {1}Introduction}{2}
-\contentsline {section}{\numberline {2}Problem Statement}{2}
-\contentsline {section}{\numberline {3}Physionet Challenge 2016}{2}
-\contentsline {subsection}{\numberline {3.1}Challenge Data}{2}
-\contentsline {section}{\numberline {4}Software Strategy}{2}
-\contentsline {subsection}{\numberline {4.1}Feature Engineering}{3}
-\contentsline {subsection}{\numberline {4.2}Data modeling}{3}
-\contentsline {section}{\numberline {5}Evaluation}{3}
